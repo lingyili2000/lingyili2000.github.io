@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://lingyili2000.github.io/lilingyi.jpg" class="floatpic" width="480" height="360">
+<img src="https://lingyili2000.github.io/lilingyi.jpg" class="floatpic" width="750" height="500">
 
 Here is **Lingyi Li (黎凌逸)**.
 

@@ -1,4 +1,4 @@
-# GuangLun means Nimbus in Chinese
+# About myself
 
 My name is **Lingyi Li (黎凌逸)**. Here is my personal website. Welcome to fork for free!
 
