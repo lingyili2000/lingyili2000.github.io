@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://lingyili2000.github.io/lilingyi.jpg" class="floatpic" width="480" height="360">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Lingyi Li (黎凌逸)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am a master student majoring in **Finance** at Capital University of Economics and Business. Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
 
 <br>
 
@@ -16,10 +16,9 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2021 - June 2024:** Capital University of Economics and Business (Finance, Mphil)
+- **Sep 2017 - June 2021:** Capital University of Economics and Business (Finance, BSc)
+- Expect to apply for a PhD position!
 
 <br>
 
