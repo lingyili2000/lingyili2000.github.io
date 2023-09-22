@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://lingyili2000.github.io/lilingyi.jpg" class="floatpic" width="750" height="500">
+<img src="https://lingyili2000.github.io/lilingyi.jpg" width="750" height="500">
 
 Here is **Lingyi Li (黎凌逸)**.
 
-I am a master student majoring in **Finance** at Capital University of Economics and Business. Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am a master student majoring in **Finance** at Capital University of Economics and Business (CUEB).
 
 <br>
 
