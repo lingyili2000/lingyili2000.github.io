@@ -1,6 +1,8 @@
 ---
 layout: page
 ---
+### Welcome to my personal page!
+
 # About Me
 
 ![800](https://lingyili2000.github.io/lilingyi.jpg)
@@ -21,12 +23,5 @@ I am a master student majoring in **Finance** at **Capital University of Economi
 - **Sep 2017 - June 2021:** Capital University of Economics and Business (Finance, BSc)
 
 <br>
-
----
-
-## Research Interests
-
-- Corporate Governance
-- Corporate Innovation
 
 <br>

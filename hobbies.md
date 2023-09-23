@@ -19,7 +19,6 @@ title: Hobbies
 [best universities in my hometown]:https://www.fzu.edu.cn/
 
 
-
 ## Swimming & Surfing
 
 <div class="third">
