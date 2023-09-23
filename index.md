@@ -9,7 +9,7 @@ layout: page
 
 Here is **Lingyi Li (黎凌逸)**.
 
-I am a master student majoring in **Finance** at Capital University of Economics and Business (CUEB).
+I am a master student majoring in **Finance** at **Capital University of Economics and Business** (CUEB).
 
 <br>
 
