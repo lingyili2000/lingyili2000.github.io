@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-
 # About Me
 
 <img src="https://lingyili2000.github.io/lilingyi.jpg" class="floatpic" width="750" height="500">
@@ -16,11 +15,10 @@ I am a master student majoring in **Finance** at Capital University of Economics
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**`<font color='red'>`[Highlight]`</font>` I am looking for PhD to start in 2024 Fall.**
 
 - **Sep 2021 - June 2024:** Capital University of Economics and Business (Finance, Mphil)
 - **Sep 2017 - June 2021:** Capital University of Economics and Business (Finance, BSc)
-- Expect to apply for a PhD position!
 
 <br>
 
@@ -45,5 +43,5 @@ My current research focuses on practical problems that artificial intelligence f
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Collected the Finalist Award in MCM 2023.
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/).
 - If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
