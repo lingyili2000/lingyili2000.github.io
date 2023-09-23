@@ -3,7 +3,11 @@ layout: page
 ---
 # About Me
 
+![800](https://lingyili2000.github.io/lilingyi.jpg)
+
 <img src="https://lingyili2000.github.io/lilingyi.jpg" class="floatpic" width="750" height="500">
+
+<br>
 
 Here is **Lingyi Li (黎凌逸)**.
 
