@@ -5,8 +5,6 @@ layout: page
 
 ![800](https://lingyili2000.github.io/lilingyi.jpg)
 
-<img src="https://lingyili2000.github.io/lilingyi.jpg" class="floatpic" width="750" height="500">
-
 <br>
 
 Here is **Lingyi Li (黎凌逸)**.
@@ -18,8 +16,6 @@ I am a master student majoring in **Finance** at Capital University of Economics
 <br>
 
 ## Academic Background
-
-**`<font color='red'>`[Highlight]`</font>` I am looking for PhD to start in 2024 Fall.**
 
 - **Sep 2021 - June 2024:** Capital University of Economics and Business (Finance, Mphil)
 - **Sep 2017 - June 2021:** Capital University of Economics and Business (Finance, BSc)
