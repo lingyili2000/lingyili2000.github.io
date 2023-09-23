@@ -1,7 +1,9 @@
 ---
 layout: page
 ---
-### Welcome to my personal page!
+## Welcome to my personal page!
+
+<br>
 
 # About Me
 
