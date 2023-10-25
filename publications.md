@@ -3,7 +3,6 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-Lastest Update: 5th October 2023&nbsp;
 
 ## Publications
 
