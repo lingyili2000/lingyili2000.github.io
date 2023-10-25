@@ -3,7 +3,6 @@ layout: page
 permalink: /CV/index.html
 title: CV
 ---
-Lastest Update: 5th October 2023&nbsp;
 
 <br>
 
