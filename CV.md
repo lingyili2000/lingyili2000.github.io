@@ -6,11 +6,11 @@ title: CV
 
 <br>
 
-Here is my [CV](https://lingyili2000.github.io/file/CV/LingyiLi-CV.pdf).(English version)
+Here is my [CV](https://lingyili2000.github.io/file/CV/CV-LingyiLi.pdf).(English version)
 
 <br>
 
-Here is my [CV](https://lingyili2000.github.io/file/CV/黎凌逸-CV.pdf).(Chinese version)
+Here is my [CV](https://lingyili2000.github.io/file/CV/CV-黎凌逸.pdf).(Chinese version)
 
 <br>
 
