@@ -12,8 +12,9 @@ title: Publications
 
 ## Working Papers
 
-- Yezhou Sha and **Lingyi Li**. "The Belt and Road Initiative and Stock Market Comovement." 2023. R&R at The Economic Research Journal (In Chinese).
-- 沙叶舟和**黎凌逸**. 共建"一带一路"倡议与沿线国家资本市场联动研究：国际公共产品视角. 2023. *《经济研究》外审中*.
+- Yezhou Sha and **Lingyi Li**. "Synthesization of Macroeconomic Policies and Stock Return Synchronicity Evidence from Countries along the 'Belt and Road Initiative'" 2023. submitted to *Pacific-Basin Finance Journal*
+- Yezhou Sha and **Lingyi Li**. "The Belt and Road Initiative and Stock Market Comovement." 2023. (In Chinese).
+- 沙叶舟和**黎凌逸**. 共建"一带一路"倡议与沿线国家资本市场联动研究：国际公共产品视角. 2023.
 - **Lingyi Li** and Cheng Yan. "Board reform and corporate innovation: international evidence." 2023.
 
   <br>
